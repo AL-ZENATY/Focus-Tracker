@@ -123,9 +123,11 @@ This project was developed to provide detailed productivity tracking by combinin
 
 # Developer
 
-**Abdullah Zenaty (AL-ZENATY)**
-**Joey Steehouwer (Jowii-music)**
-**Abdulrahman Saee (Abdulrahman7170)**
+** - Abdullah Zenaty (AL-ZENATY)**
+
+** - Joey Steehouwer (Jowii-music)**
+
+** - Abdulrahman Saee (Abdulrahman7170)**
 
 GitHub:
 https://github.com/AL-ZENATY
