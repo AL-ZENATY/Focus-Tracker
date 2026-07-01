@@ -123,7 +123,7 @@ This project was developed to provide detailed productivity tracking by combinin
 
 # Developers
 
--**Abdullah Zenaty (AL-ZENATY)**
+**-Abdullah Zenaty (AL-ZENATY)**
 
 - Joey Steehouwer (Jowii-music)
 
